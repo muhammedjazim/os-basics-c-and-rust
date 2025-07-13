@@ -64,3 +64,6 @@ cmake_install.cmake
 *.elf
 *.exe
 *.pdb
+
+# Unix executables with no extension
+[a-zA-Z0-9]*
