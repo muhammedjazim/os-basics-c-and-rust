@@ -30,3 +30,31 @@ Thumbs.db
 
 target/
 sqlx-data.json
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+# Executables
+*.out
+*.elf
+*.exe
+
+# Build directories
+build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
+.DS_Store
