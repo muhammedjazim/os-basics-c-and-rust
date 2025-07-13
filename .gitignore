@@ -58,3 +58,9 @@ cmake_install.cmake
 .vscode/
 .idea/
 .DS_Store
+
+# Executables
+*.out
+*.elf
+*.exe
+*.pdb
